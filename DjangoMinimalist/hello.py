@@ -1,11 +1,11 @@
 """
-This is a single-file hello world file using django!
+This is a single file hello world file using django!
 To see this in action, place this file into your project directory and run
 the following command:
 
 $python hello.py runserver
 
-And visit localhost:8000 in your browser to see your single-file hello world!
+And visit localhost : 8000 in your browser to see your single-file hello world!
 """
 
 import sys
